@@ -1,0 +1,4 @@
+ClaimID,Statement,SourceFile,Chapter,Confidence (A–D),Intentional? (Y/N),ResolutionNotes
+C-001,"Miriam died in 1956",manifesto.md,Prologue,C,N,
+C-002,"House foundation built in 1889",artifact_inventory.csv,3,A,Y,"Confirmed in county records"
+C-003,"Algernon never enters the attic",algernon_diary_02.md,7,B,N,
